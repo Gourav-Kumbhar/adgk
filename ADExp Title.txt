@@ -1,0 +1,37 @@
+Add into table 
+Experiment No. 1 
+Title: Create HTML pages for website like login, registration and about us pages. 
+
+Experiment No. 2 
+Title: Apply and design the created HTML pages using CSS. 
+
+Experiment No. 3 
+Title: Write a program demonstrating JavaScript functions and different validations. 
+
+Experiment No. 9 
+Aim: To deploy the web application to a public server 
+
+Experiment no: 10 
+Title: Creating simple project and study of android project structure and installing apk on mobile 
+device/tablet, configuring mobile device/tablet in Android Studio with developer option and running 
+app directly on mobile device/tablet. 
+
+Experiment no: 11 
+Title:  Write a program to use of different layouts.
+
+Experiment no: 12 
+Title: Write a program to use of Intents for SMS and Telephony. 
+
+Experiment no: 13 
+Title: Write a program to demonstrate Buttons, Text Fields, Checkboxes, Radio Buttons, and Toggle 
+Buttons with their event handlers. 
+
+Experiment no :14 
+Title : Program to demonstrate Touch Mode, Menus with their events handler. 
+
+Experiment no: 15 
+Title: Implement an application that implements Multi-threading. 
+
+Experiment no: 16 
+Title : Write a program to study and use of SQLite database. 
+
